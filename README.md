@@ -2,6 +2,8 @@
 
 La consulta que ha dado correcto fue:
 
+Fue desarrollado en Ubuntu 18.06 Lts y Ciao (Prolog). 
+
 sqf(X,5),dof(Y,X,5),opv(Z,Y,X,5).
 
 Y : 'Luis'
@@ -20,5 +22,6 @@ dof indica Dia Ordinal Falso, asumiendo que el enunciado es falso busca quien di
 sqf indica Soy Quien Falso, asumiendo que el enunciado es falso busca quien dice falsamente su nombre.
 
 opv indica Otra Persona Verdadaero, asumiendo que el enunciado es verdadaero busca quien dice que manana es sabado.
+
 
 
